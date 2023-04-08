@@ -1084,17 +1084,17 @@ body.dark-theme {
     font-size: var(--biggest-font-size);
   }
   .home__blob{
-    width: 400px;
-    height: 580px;
+    width: 370px;
+    height: 500px;
     border-radius: 12.5rem;
   }
   .home__perfil{
-    width: 340px;
-    height: 520px;
+    width: 350px;
+    height: 480px;
     border-radius: 10.6rem;
   }
   .home__perfil img{
-    width: 300px;
+    width: 400px;
   }
   .home__shape-wawes{
     width: 100px;
